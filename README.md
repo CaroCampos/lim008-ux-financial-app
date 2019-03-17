@@ -60,7 +60,7 @@ En la entrevista con el cliente mencionaron puntos claves a dónde querían lleg
 * Hacerse más conocido
 * Validar las acciones tomadas 
 
-### Presupuesto
+## Presupuesto
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
