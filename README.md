@@ -62,9 +62,9 @@ Manager del equipo les brinda el contexto:
 ### User Persona
 
 Colocar imágenes
-![User Persona Principal](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona Principal](img/user-principal.PNG)
 
-![User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona Secundario](img/user-secundario.PNG)
 
 
 ## Presupuesto
