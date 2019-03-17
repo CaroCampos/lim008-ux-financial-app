@@ -102,6 +102,16 @@ Según la data brindada, existían cifras alarmantes:
 |Característica/Apps|BBVA Manager|Interbank Alcancía|Interbank Smart|Ynab|Wallet|
 |:----|:---|:---|:---|:---|:---:|
 |Disponible para iOS y Android|SI|SI|SI|SI|SI|
+|Descarga Gratuita|SI|SI|SI|SI|SI|
+|Asocia Cuenta de Ahorros|SI|SI|SI|SI|SI|
+|Asocia más de una Cuenta|SI|SI|NO|SI|SI|
+|No necesita asociar cuenta|NO|NO|NO|SI|SI|
+|Registra Gastos|SI|NO|SI|SI|SI|
+|Historial de Movimientos|SI|NO|SI|SI|SI|
+|Permite crear una meta|SI|NO|NO|NO|SI|
+|Ingresa con huella digital|NO|SI|SI|NO|NO|
+|Ocultar saldo|NO|NO|NO|NO|NO|
+|Asesorí|SI|NO|NO|SI|NO|
 
 ### Entrevista con Usuarios
 
