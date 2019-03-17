@@ -100,6 +100,8 @@ Según la data brindada, existían cifras alarmantes:
 * Se demostró que las personas sí llegaban al Landing Page, pero muchas de ellas no lograban concretar la descarga por el sistema operativo de sus celulares.
 * El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al máximo.
 
+![Funnel](img/funnel.PNG)
+
 ### Benchmark
 
 |Característica/Apps|BBVA Manager|Interbank Alcancía|Interbank Smart|Ynab|Wallet|
