@@ -58,6 +58,12 @@ Manager del equipo les brinda el contexto:
 
 [Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
+### User Persona
+
+![User Persona Principal](https://www.google.com/search?q=personajes+de+stranger+things&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3g5bZhIrhAhUG2FkKHTdcB0wQ_AUIDigB&biw=1366&bih=657#imgrc=s7Z-dWSDq0kDCM:)
+
+!User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+
 ## Presupuesto
 
 |Actividad|Descripción|Puntos|
