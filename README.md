@@ -99,9 +99,9 @@ Según la data brindada, existían cifras alarmantes:
 
 ### Benchmark
 
-|Característica / Apps|BBVA Manager|Interbank Alcancía|Interbank Smart|
-|:----|:---|:---|:---:|
-|Disponible para iOS y Android|SI|SI|SI|
+|Característica/Apps|BBVA Manager|Interbank Alcancía|Interbank Smart|Ynab|Wallet|
+|:----|:---|:---|:---|:---|:---:|
+|Disponible para iOS y Android|SI|SI|SI|SI|SI|
 
 ### Entrevista con Usuarios
 
