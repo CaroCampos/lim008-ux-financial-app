@@ -50,3 +50,15 @@ Manager del equipo les brinda el contexto:
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
+
+## Entrevista con el cliente
+
+### Objetivos
+
+En la entrevista con el cliente mencionaron puntos claves a dónde querían llegar:
+* Conocer más a su público
+* Tus finanzas app incentivar el ahorro de sus clientes
+* Hacerse más conocido
+* Validar las acciones tomadas 
+
+
