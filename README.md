@@ -54,9 +54,9 @@ Manager del equipo les brinda el contexto:
 
 ### Landing Page
 
-![landing page app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+![landing page app de finanzas](https://drive.google.com/drive/u/1/folders/1n7kA_ZN3-DzAOM8Kx6XjoC0NXlKWbRRn)
 
-- [Landing Page](http://tus-finanzas.pagedemo.co/)
+[Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
 ## Presupuesto
 
