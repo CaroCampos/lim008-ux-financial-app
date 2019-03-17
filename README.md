@@ -78,13 +78,16 @@ Manager del equipo les brinda el contexto:
 
 ## Investigación
 
-### Objetivos (Entrevista con el cliente)
+### Entrevista con el Cliente
 
-En la entrevista con el cliente mencionaron puntos claves a dónde querían llegar:
-* Conocer más a su público
-* Tus finanzas app incentivar el ahorro de sus clientes
-* Hacerse más conocido
-* Validar las acciones tomadas 
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+
+[Link Entrevista a Cliente](https://drive.google.com/file/d/19DCcQTkhpOSTATaUc6muPjCIeE9yUF61/view?usp=sharing)
+
+### Objetivos
+
+* Validar el user persona entregado.
+* Incentivar el ahorro de sus clientes.
 
 ### Problemas Encontrados
 
@@ -94,4 +97,8 @@ Según la data brindada, existían cifras alarmantes:
 * Se demostró que las personas sí llegaban al Landing Page, pero muchas de ellas no lograban concretar la descarga por el sistema operativo de sus celulares.
 * El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al máximo.
 
+### Entrevista con Usuarios
 
+[Link Entrevista a Usuarios](https://drive.google.com/file/d/19DCcQTkhpOSTATaUc6muPjCIeE9yUF61/view?usp=sharing)
+
+### Testing Prototipo Inicial
