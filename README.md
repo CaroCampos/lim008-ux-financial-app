@@ -100,7 +100,10 @@ Según la data brindada, existían cifras alarmantes:
 * Se demostró que las personas sí llegaban al Landing Page, pero muchas de ellas no lograban concretar la descarga por el sistema operativo de sus celulares.
 * El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al máximo.
 
+### Instalaciones Vs. Sign Ups
+
 ![Funnel](img/funnel.PNG)
+
 
 ### Benchmark
 
