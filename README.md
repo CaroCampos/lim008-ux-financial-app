@@ -55,8 +55,7 @@ Manager del equipo les brinda el contexto:
 
 ### Landing Page
 
-Colocar imágen
-![landing page app de finanzas](img/landing-page.png)
+![landing page app de finanzas](img/landing-page.PNG)
 
 [Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
