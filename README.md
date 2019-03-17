@@ -10,6 +10,7 @@ agencia/consultora de UX que los ayude a definir la dirección y evolución del
 producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
 de UX y son asignadas al proyecto.
 
+
 ## Introducción
 
 ### Contexto
@@ -54,15 +55,18 @@ Manager del equipo les brinda el contexto:
 
 ### Landing Page
 
+Colocar imágen
 ![landing page app de finanzas](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
 
 [Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
 ### User Persona
 
+Colocar imágenes
 ![User Persona Principal](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
 
-![User Persona Principal](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+
 
 ## Presupuesto
 
@@ -75,6 +79,7 @@ Manager del equipo les brinda el contexto:
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 | | TOTAL | 260 |
+
 
 ## Investigación
 
@@ -111,10 +116,42 @@ Según la data brindada, existían cifras alarmantes:
 |Permite crear una meta|SI|NO|NO|NO|SI|
 |Ingresa con huella digital|NO|SI|SI|NO|NO|
 |Ocultar saldo|NO|NO|NO|NO|NO|
-|Asesorí|SI|NO|NO|SI|NO|
+|Asesoría|SI|NO|NO|SI|NO|
 
 ### Entrevista con Usuarios
+
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
 [Link Entrevista a Usuarios](https://drive.google.com/drive/folders/1OlBK7gQ-5Jg9BZlOIbEXPqPc0AOyj7_1?usp=sharing)
 
 ### Testing Prototipo Inicial
+
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+
+Colocar imágen
+![Testing Prototipo Inicial](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+
+[Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/10aIGXWL9YKRX1bQLsZXdqYkAIF2ZS7kC?usp=sharing)
+
+
+## Síntesis
+
+### User Persona Propuesto
+
+Colocar imágen
+![User Persona](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+
+### Afinity Map
+
+Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes* más importantes que nos sirvieron para realizar el afinity map.
+
+Colocar imágen
+![Afinity Map](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+
+### Problem Statements
+
+
+## Prototipo
+
+## Recomendaciones
+
