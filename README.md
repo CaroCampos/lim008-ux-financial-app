@@ -60,7 +60,7 @@ Manager del equipo les brinda el contexto:
 
 ### User Persona
 
-![User Persona Principal](https://www.google.com/search?q=personajes+de+stranger+things&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3g5bZhIrhAhUG2FkKHTdcB0wQ_AUIDigB&biw=1366&bih=657#imgrc=s7Z-dWSDq0kDCM:)
+![User Persona Principal](https://cd.cinescape.com.pe/cinescape-603x336-211314.jpg)
 
 !User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
 
