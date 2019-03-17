@@ -50,7 +50,6 @@ Manager del equipo les brinda el contexto:
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-
 ## Entrevista con el cliente
 
 ### Objetivos
@@ -72,3 +71,11 @@ En la entrevista con el cliente mencionaron puntos claves a dónde querían lleg
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 | | TOTAL | 260 |
+
+## Investigación
+
+### Problemas Encontrados
+
+Según la data brindada, existían cifras alarmantes: El número de descargas de la app era 5 veces más que las personas que lograban crearse una cuenta con al App.
+Al ser una app desarrollada solo para iOS , creaba otro problema por el 75% del mercado peruano utiliza teléfonos con sistemas Android. Se mostró que las personas sí llegaban al Landing Page pero muchas de ellas no lograban concretar la descarga por el sistemas operativos de sus celulares.
+El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al maximo.
