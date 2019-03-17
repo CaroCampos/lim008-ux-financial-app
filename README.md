@@ -61,9 +61,9 @@ Manager del equipo les brinda el contexto:
 
 ### User Persona
 
-![User Persona Principal](img/user-principal.PNG)
+![User Persona Principal](img/user-principal.png)
 
-![User Persona Secundario](img/user-secundario.PNG)
+![User Persona Secundario](img/user-secundario.png)
 
 
 ## Presupuesto
