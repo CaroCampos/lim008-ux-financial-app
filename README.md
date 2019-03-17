@@ -47,18 +47,16 @@ Manager del equipo les brinda el contexto:
   descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook
   Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
   próximas dos semanas, entendamos ese punto también.”
+  
+### MVP
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-## Entrevista con el cliente
+### Landing Page
 
-### Objetivos
+![landing page app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-En la entrevista con el cliente mencionaron puntos claves a dónde querían llegar:
-* Conocer más a su público
-* Tus finanzas app incentivar el ahorro de sus clientes
-* Hacerse más conocido
-* Validar las acciones tomadas 
+- [Landing Page](http://tus-finanzas.pagedemo.co/)
 
 ## Presupuesto
 
@@ -71,6 +69,16 @@ En la entrevista con el cliente mencionaron puntos claves a dónde querían lleg
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 | | TOTAL | 260 |
+
+## Entrevista con el cliente
+
+### Objetivos
+
+En la entrevista con el cliente mencionaron puntos claves a dónde querían llegar:
+* Conocer más a su público
+* Tus finanzas app incentivar el ahorro de sus clientes
+* Hacerse más conocido
+* Validar las acciones tomadas 
 
 ## Investigación
 
