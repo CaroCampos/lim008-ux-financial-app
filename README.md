@@ -60,7 +60,7 @@ Manager del equipo les brinda el contexto:
 
 ### User Persona
 
-![User Persona Principal](https://cd.cinescape.com.pe/cinescape-603x336-211314.jpg)
+![User Persona Principal](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
 
 !User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
 
@@ -93,3 +93,5 @@ En la entrevista con el cliente mencionaron puntos claves a dónde querían lleg
 Según la data brindada, existían cifras alarmantes: El número de descargas de la app era 5 veces más que las personas que lograban crearse una cuenta con al App.
 Al ser una app desarrollada solo para iOS , creaba otro problema por el 75% del mercado peruano utiliza teléfonos con sistemas Android. Se mostró que las personas sí llegaban al Landing Page pero muchas de ellas no lograban concretar la descarga por el sistemas operativos de sus celulares.
 El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al maximo.
+
+
