@@ -140,7 +140,6 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 ### User Persona Propuesto
 
-Colocar imágen
 ![User Persona](img/user-persona.png)
 
 ### Afinity Map
@@ -151,8 +150,18 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 
 ### Problem Statements
 
+* Bla.
+* Bla.
+* Bla.
+* Bla.
+* Bla.
+* Bla.
 
-## Prototipo
+## Prototipo N° 1
+
+![Prototipo](img/prototipo1a.png)
+![Prototipo](img/prototipo1b.png)
+
 
 ## Recomendaciones
 
