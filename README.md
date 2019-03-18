@@ -180,13 +180,13 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 ![Prototipo](img/prototipo2c.png)
 ![Prototipo](img/prototipo2d.png)
 
-### Testing Prototipo Inicial
+### Testing Prototipo N° 2
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
 [Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/1k5syiYCY0lpN2z8sGQmMczfmHJWdZII7?usp=sharing)
 
-### Resultados Testing
+### Resultados de Testing
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
