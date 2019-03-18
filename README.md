@@ -163,6 +163,13 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 ![Prototipo](img/prototipo1b.png)
 
 
-## Recomendaciones
+### Recomendaciones
+
+* Registrarse colocando la fecha de vencimiento de la tarjeta, tiende a confundir con una tarjeta de crédito.
+* Tener un dashboard ayudaría para poder ver toda la información en una sola página.
+* Deslizarse de saldo disponible a ahorros confunde de en qué página se encuentra.
+* Las barras de prigreso de metas deberían ser más claras y notorias.
+
+## Prototipo N° 2
 
 
