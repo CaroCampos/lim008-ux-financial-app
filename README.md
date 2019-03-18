@@ -55,17 +55,15 @@ Manager del equipo les brinda el contexto:
 
 ### Landing Page
 
-Colocar imágen
-![landing page app de finanzas](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![landing page app de finanzas](img/landing-page.PNG)
 
 [Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
 ### User Persona
 
-Colocar imágenes
-![User Persona Principal](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona Principal](img/user-principal.png)
 
-![User Persona Secundario](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona Secundario](img/user-secundario.png)
 
 
 ## Presupuesto
@@ -102,6 +100,11 @@ Según la data brindada, existían cifras alarmantes:
 * Se demostró que las personas sí llegaban al Landing Page, pero muchas de ellas no lograban concretar la descarga por el sistema operativo de sus celulares.
 * El user persona principal no era el idóneo, eso demostraba que la publicidad no habia sido aprovechada al máximo.
 
+### Instalaciones Vs. Sign Ups
+
+![Funnel](img/funnel.PNG)
+
+
 ### Benchmark
 
 |Característica/Apps|BBVA Manager|Interbank Alcancía|Interbank Smart|Ynab|Wallet|
@@ -128,8 +131,7 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
-Colocar imágen
-![Testing Prototipo Inicial](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![Testing Prototipo Inicial](img/testing.png)
 
 [Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/10aIGXWL9YKRX1bQLsZXdqYkAIF2ZS7kC?usp=sharing)
 
@@ -139,14 +141,13 @@ Colocar imágen
 ### User Persona Propuesto
 
 Colocar imágen
-![User Persona](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona](img/user-persona.png)
 
 ### Afinity Map
 
 Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes* más importantes que nos sirvieron para realizar el afinity map.
 
-Colocar imágen
-![Afinity Map](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![Afinity MAp](img/afinity-map.jpg)
 
 ### Problem Statements
 
@@ -154,4 +155,5 @@ Colocar imágen
 ## Prototipo
 
 ## Recomendaciones
+
 
