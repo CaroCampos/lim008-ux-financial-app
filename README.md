@@ -85,12 +85,15 @@ Manager del equipo les brinda el contexto:
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
-[Link Entrevista a Cliente](https://drive.google.com/file/d/19DCcQTkhpOSTATaUc6muPjCIeE9yUF61/view?usp=sharing)
+[Link Entrevista a Cliente](https://drive.google.com/drive/folders/1qJkV0bFj1owrNfxlvtzXR_PCKP-1KNzS?usp=sharing)
 
 ### Objetivos
 
 * Validar el user persona entregado.
+* Reconocer si el flujo de la aplicación está siendo intuitiva.
 * Incentivar el ahorro de sus clientes.
+* Validar si se necesita una nueva inversión en redes sociales.
+
 
 ### Problemas Encontrados
 
@@ -203,17 +206,13 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 [Link a Figma](https://www.figma.com/file/C70dEE7bqVvADnCglJXBl1/Tus-Finanzas?node-id=0%3A477)
 
-### Zeplin
-
-[Link a Zeplin](sdvdfvd)
-
 ### Documentación en Drive
 
-[Link a Drive](sdvdfvd)
+[Link a Drive](https://drive.google.com/drive/folders/13U_6wjtvjhyFg1mUdjmHprj-omQ1uya0?usp=sharing)
 
 ### Video en Loom
 
-[Link a Loom](sdvdfvd)
+[Link a Loom](link aquí)
 
 
 
