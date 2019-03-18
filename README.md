@@ -143,7 +143,7 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 ### User Persona Propuesto
 
-![User Persona](img/user-persona.png)
+![User Persona](img/user-persona.PNG)
 
 ### Afinity Map
 
