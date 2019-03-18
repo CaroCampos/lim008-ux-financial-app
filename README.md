@@ -131,8 +131,7 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
 
-Colocar imágen
-![Testing Prototipo Inicial](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![Testing Prototipo Inicial](img/testing.png)
 
 [Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/10aIGXWL9YKRX1bQLsZXdqYkAIF2ZS7kC?usp=sharing)
 
@@ -142,14 +141,13 @@ Colocar imágen
 ### User Persona Propuesto
 
 Colocar imágen
-![User Persona](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![User Persona](img/user-persona.png)
 
 ### Afinity Map
 
 Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes* más importantes que nos sirvieron para realizar el afinity map.
 
-Colocar imágen
-![Afinity Map](https://drive.google.com/file/d/1cM4L6CiRCiCHzoQYILPMon5xgl72KDxV/view?usp=sharing)
+![Afinity MAp](img/afinity-map.jpg)
 
 ### Problem Statements
 
