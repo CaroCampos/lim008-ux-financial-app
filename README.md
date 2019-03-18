@@ -172,4 +172,9 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 
 ## Prototipo N° 2
 
+![Prototipo](img/prototipo2a.png)
+![Prototipo](img/prototipo2b.png)
+![Prototipo](img/prototipo2c.png)
+![Prototipo](img/prototipo2d.png)
 
+### Recomendaciones
