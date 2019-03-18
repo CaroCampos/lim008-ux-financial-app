@@ -177,4 +177,44 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 ![Prototipo](img/prototipo2c.png)
 ![Prototipo](img/prototipo2d.png)
 
+### Testing Prototipo Inicial
+
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+
+[Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/1k5syiYCY0lpN2z8sGQmMczfmHJWdZII7?usp=sharing)
+
+### Resultados Testing
+
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+
 ### Recomendaciones
+
+* Bla.
+* Bla.
+* Bla.
+
+## Enlaces
+
+### Prototipo Navegable
+
+[Link a prototipo navegable](https://marvelapp.com/b38hf0a)
+
+### Diseño en Figma
+
+[Link a Figma](https://www.figma.com/file/C70dEE7bqVvADnCglJXBl1/Tus-Finanzas?node-id=0%3A477)
+
+### Zeplin
+
+[Link a Zeplin](sdvdfvd)
+
+### Documentación en Drive
+
+[Link a Drive](sdvdfvd)
+
+### Video en Loom
+
+[Link a Loom](sdvdfvd)
+
+
+
+
