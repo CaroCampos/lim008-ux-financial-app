@@ -83,7 +83,7 @@ Manager del equipo les brinda el contexto:
 
 ### Entrevista con el Cliente
 
-blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+De acuerdo, a la entrevista nuestro cliente manifestó que aprovechando la existencia de una desarrollador Swift decidió lanzar Tus finanzas App. No tenían clara sus metas en base a números. Su principal objetivo era validar las estrategias ya implementadas. Determinar si es necesario duplicar la inversion en publicidad.
 
 [Link Entrevista a Cliente](https://drive.google.com/drive/folders/1qJkV0bFj1owrNfxlvtzXR_PCKP-1KNzS?usp=sharing)
 
