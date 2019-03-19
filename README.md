@@ -164,6 +164,7 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 
 ## Prototipo N° 1
 
+![Mockup](img/mockup-vol5.jpg)
 ![Prototipo](img/prototipo1a.png)
 ![Prototipo](img/prototipo1b.png)
 
