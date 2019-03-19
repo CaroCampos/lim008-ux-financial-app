@@ -126,15 +126,19 @@ Según la data brindada, existían cifras alarmantes:
 
 ### Entrevista con Usuarios
 
-blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+Se diseñó una guía de entrevistas a los usuarios  según el user persona principal y secundario , con la intención de identificar si es necesario rediseñar user persona. 
+Los usuarios de 18 años indicaron que no estaba en sus planes ahorrar, que preferían vivir el momento y no ahorrar. Su capacidad de ahorro no era tan grande como la de las personas mayores. 
+Según, los entrevistados de más de 25 años indicaron que organizaban su dinero con excel o por medio de apuntes, ellos a diferencia de los más jovenes sí estaban interesados en conocer nuevas herramientas para organizar su dinero y ademas tienes objetivos o metas economicas con planes en estudio, vivienda ,etc.
 
 [Link Entrevista a Usuarios](https://drive.google.com/drive/folders/1OlBK7gQ-5Jg9BZlOIbEXPqPc0AOyj7_1?usp=sharing)
 
 ### Testing Prototipo Inicial
 
-blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
-
-![Testing Prototipo Inicial](img/testing.png)
+* Dificultad para registrar , la app no demostraba seguridad no validaban suficientes datos.
+* Consideraban que registrar una foto lo asemejaba con una red social.
+* Querían saber si tenian varias cuentas que cuenta seria afiliada a la app.
+* Mencionaron que la opción "crear cuenta" los confundia , no se entendía que era crear una meta.
+* Querían ver sus gastos en un comparativo con el mes anterior.
 
 [Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/10aIGXWL9YKRX1bQLsZXdqYkAIF2ZS7kC?usp=sharing)
 
@@ -153,12 +157,10 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 
 ### Problem Statements
 
-* Bla.
-* Bla.
-* Bla.
-* Bla.
-* Bla.
-* Bla.
+* Alonso necesita ver un comparativo de sus gastos anteriores para saber en qué gasta más.
+* Alonso necesita tener sus metas organizadas por categorías.
+* Alonso necesita que el sign up tenga más seguridad para darle respaldo a su informacion financiera.
+* Alonso necesita poder ver sus gastos organizados por categorías para hacer un seguimiento de dónde se va más su dinero.
 
 ## Prototipo N° 1
 
