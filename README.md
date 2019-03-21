@@ -168,7 +168,6 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 ![Prototipo](img/prototipo1a.png)
 ![Prototipo](img/prototipo1b.png)
 
-
 ### Recomendaciones
 
 * Registrarse colocando la fecha de vencimiento de la tarjeta, tiende a confundir con una tarjeta de crédito.
@@ -183,21 +182,12 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 ![Prototipo](img/prototipo2c.png)
 ![Prototipo](img/prototipo2d.png)
 
-### Testing Prototipo N° 2
+## Recomendaciones
 
-blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
+* Conservar la versión de iOs y ampliar a versión Android, previa coordinanción con el área de desarrollo
+* Redireccionar la inversión de facebook a otras redes sociales para ampliar acogida.
+* Modificar el user persona, ya qué actualmente el user principal no cumple total afinidad con la aplicación. Consideramos que podemos optimizar el crecimiento de la aplicación corrigiendo el user persona actual.
 
-[Link Testing Prototipo Inicial](https://drive.google.com/drive/folders/1k5syiYCY0lpN2z8sGQmMczfmHJWdZII7?usp=sharing)
-
-### Resultados de Testing
-
-blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla.
-
-### Recomendaciones
-
-* Bla.
-* Bla.
-* Bla.
 
 ## Enlaces
 
