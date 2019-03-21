@@ -199,6 +199,10 @@ Al finalizar las entrevistas con nuestros usuarios, pudimos destacar los *quotes
 
 [Link a Figma](https://www.figma.com/file/C70dEE7bqVvADnCglJXBl1/Tus-Finanzas?node-id=0%3A477)
 
+### Zeplin
+
+[Link a Zeplin](zpl.io/VQBJ0k5)
+
 ### Documentación en Drive
 
 [Link a Drive](https://drive.google.com/drive/folders/13U_6wjtvjhyFg1mUdjmHprj-omQ1uya0?usp=sharing)
